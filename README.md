@@ -1,2 +1,2 @@
-# Stock Application
-A React + .Net Core application for learning purposes
+# Finshark - Finance Application
+A React + .Net Core application 
